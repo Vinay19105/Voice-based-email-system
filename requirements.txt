@@ -1,0 +1,12 @@
+numpy
+scipy
+pyaudio
+webrtcvad
+vosk
+resemblyzer
+pyttsx3
+SpeechRecognition
+customtkinter
+gTTS
+playsound==1.2.2
+googletrans==4.0.0-rc1
